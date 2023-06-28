@@ -1,2 +1,11 @@
 # mini-notepad
-Projek Akhir - Mini Notepad
+Projek Akhir Algoritma dan Pemrograman II - Mini Notepad
+
+made using tkinter
+
+features:
+- new file
+- open file
+- save file
+- undo redo button
+- doodle area
